@@ -1,0 +1,5 @@
+numgwn 1
+numisd 2
+numuser 1
+g1 isd1
+g1 user1
